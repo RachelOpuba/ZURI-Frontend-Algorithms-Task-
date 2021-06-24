@@ -44,3 +44,8 @@ function checkYuGiOh(n) {
     return myArr;
   }
 console.log(checkYuGiOh("fizzbuzz is meh"))
+
+
+
+
+//Task Completed pushed to Github-Though deadline was not met hence was not sumbmited and graded
